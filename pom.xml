@@ -26,8 +26,8 @@
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-web</artifactId>
-		</dependency>
+<artifactId>spring-boot-starter-web</artifactId>
+			<version>5.3.18</version>
 
 		<dependency>
 			<groupId>mysql</groupId>
@@ -77,7 +77,7 @@
 		<dependency>
 			<groupId>commons-collections</groupId>
 			<artifactId>commons-collections</artifactId>
-			<version>3.2.1</version>
+			<version>3.2.2</version>
 		</dependency>
 
 		<!-- Multiple deserialization CVEs (e.g. CVE-2019-12384, CVE-2019-14379, CVE-2019-17531) -->
